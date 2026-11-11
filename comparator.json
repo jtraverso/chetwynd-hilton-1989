@@ -1,0 +1,15 @@
+{
+  "challenge_module": "CH89Challenge",
+  "solution_module": "CH89Solution",
+  "theorem_names": [
+    "CH89.lineGraph_colorable_of_isRegular_sqrt7",
+    "CH89.lineGraph_colorable_of_isRegular_nat"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": true
+}
